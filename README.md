@@ -4,8 +4,9 @@ To use this app you type a city name into the search bar and press the search bu
 
 ## Links to the active app and it repo on github
 
+Active web page https://smkraycs12.github.io/06_Weather_Dashboard/
 
-
+Repo link https://github.com/smkraycs12/06_Weather_Dashboard
 
 ## Dashboard Photo 
 
